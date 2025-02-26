@@ -15,13 +15,13 @@ Ethereum Wallet Utils is a lightweight JavaScript library for managing Ethereum 
 You can install the package using npm:
 
 ```sh
-npm install @soundar6385/ethereum-wallet-utils
+npm install ethereum-wallet-utils
 ```
 
 Or using yarn:
 
 ```sh
-yarn add @soundar6385/ethereum-wallet-utils
+yarn add ethereum-wallet-utils
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ import {
     decryptPrivateKey,
     signMessage,
     verifyMessage
-} from '@soundar6385/ethereum-wallet-utils';
+} from 'ethereum-wallet-utils';
 ```
 
 ### Generate a New Ethereum Wallet
@@ -82,13 +82,8 @@ console.log(isValid);
 ## Issues & Contributions
 If you find any issues or would like to contribute, please open an issue or create a pull request on GitHub.
 
----
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
----
 

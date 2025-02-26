@@ -27,7 +27,7 @@
     },
     "homepage": "https://github.com/Soundar6385/Ethereum-Wallet-Utils#readme",
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com"
+        "registry": "https://registry.npmjs.org"
     },
     "dependencies": {
         "ethers": "^6.13.5"

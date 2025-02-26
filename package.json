@@ -1,0 +1,35 @@
+{
+    "name": "@soundar6385/ethereum-wallet-utils",
+    "version": "1.0.0",
+    "description": "A utility library for Ethereum wallet management, including key generation, encryption, and message signing.",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Soundar6385/Ethereum-Wallet-Utils.git"
+    },
+    "keywords": [
+        "ethereum",
+        "wallet",
+        "crypto",
+        "web3",
+        "ethers",
+        "private-key",
+        "encryption"
+    ],
+    "author": "Soundar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Soundar6385/Ethereum-Wallet-Utils/issues"
+    },
+    "homepage": "https://github.com/Soundar6385/Ethereum-Wallet-Utils#readme",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
+    "dependencies": {
+        "ethers": "^6.13.5"
+    }
+}

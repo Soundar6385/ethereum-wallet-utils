@@ -82,6 +82,13 @@ console.log(isValid);
 ## Issues & Contributions
 If you find any issues or would like to contribute, please open an issue or create a pull request on GitHub.
 
-## License
-This project is licensed under the MIT License.
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+```
+
+---
 

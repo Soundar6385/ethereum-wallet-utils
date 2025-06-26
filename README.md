@@ -4,8 +4,8 @@
 Ethereum Wallet Utils is a lightweight JavaScript library for managing Ethereum wallets. It provides functionalities for generating Ethereum wallets, encrypting and decrypting private keys, signing messages, and verifying signatures.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![NPM Version](https://img.shields.io/npm/v/blockchain_utility_suite.svg)](https://www.npmjs.com/package/Ethereum-Wallet-Utils)
-[![GitHub Issues](https://img.shields.io/github/issues/Soundar6385/Ethereum-Wallet-Utils.svg)](https://github.com/Soundar6385/Ethereum-Wallet-Utils/issues)
+[![NPM Version](https://img.shields.io/npm/v/blockchain_utility_suite.svg)](https://www.npmjs.com/package/ethereum-wallet-utils)
+[![GitHub Issues](https://img.shields.io/github/issues/Soundar6385/Ethereum-Wallet-Utils.svg)](https://github.com/Soundar6385/ethereum-wallet-utils/issues)
 
 ## Features
 - Generate a new Ethereum wallet (address, private key, and mnemonic)
